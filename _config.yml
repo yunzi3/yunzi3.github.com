@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 길따라 멋따라
+description: 2분반 3조
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://yunzi3.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -11,17 +11,17 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: 돌발상황
+   url: /_posts/2015-05-24
+ - title: /자전거선택
+   url: 2015-05-23-자전거선택
+ - title: 대표코스
+   url: /_posts/2015-05-29-대표자전거코스
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: yunzi3
+   twitter: yunzi3
+   facebook: yunzi3
+   email: torokoko123@gmail.com
 
 google_analytics: "UA-58263416-1"
