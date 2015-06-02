@@ -1,8 +1,7 @@
 # Site settings
-title: Video about
+title: 제주도 자전거 여행 
 description: > # this means to ignore newlines until "baseurl:"
-  It says how those who have experienced various area and background describe Working Holiday to Australia and what it was like for them.
-  They say it is a privilege for the twenties
+  이 동영상은 혼자하는 제주도여행에 대해서 보여주고 있습니다. 참고하세요 :D
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
