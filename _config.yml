@@ -10,13 +10,6 @@ markdown: redcarpet
 highlighter: pygments
 paginate: 5
 
-navigation:
- - title: 돌발상황
-   url: /_posts/2015-05-24
- - title: /자전거선택
-   url: 2015-05-23-자전거선택
- - title: 대표코스
-   url: /_posts/2015-05-29-대표자전거코스
 
 social:
    github: yunzi3
